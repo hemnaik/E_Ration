@@ -1,5 +1,4 @@
 # E-Ration 📦💻
-
 "E-Ration" aims to digitize the existing ration distribution system, making it more reliable and efficient by maintaining records and payments online. By transitioning from a manual to an automated system, "E-Ration" seeks to address the challenges of manual errors, black marketing, and inefficient record keeping.
 
 ## 🖥️ System Specifications
